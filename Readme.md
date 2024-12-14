@@ -46,7 +46,7 @@
 1. Clone o repositório:
 
 ```bash
- https://github.com/seu-usuario/projeto-growflix.git
+ https://github.com/JohannPDaniel/Projeto-FULL-STACK-1-GROWFLIX-.git
  ```
 2. Navegue até a pasta do projeto:
 ```bash
